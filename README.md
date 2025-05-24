@@ -33,15 +33,15 @@ ttf-jetbrains-mono
 
 Или так:
 
-![[2025-05-23-231354_hyprshot.png]]
+![2025-05-23-231354_hyprshot](https://github.com/user-attachments/assets/43eb8900-12d3-46cc-957d-0fc985231e92)
 
 как выглядит wlogout:
 
-![[2025-05-24-225911_hyprshot.png]]
+![2025-05-24-225911_hyprshot](https://github.com/user-attachments/assets/28d4c59b-b50f-44ff-b312-0923f9a586be)
 
 Вот так теперь выглядят уведомления:
 
-![[2025-05-24-225933_hyprshot.png]]
+![2025-05-24-225933_hyprshot](https://github.com/user-attachments/assets/3be53b38-1b27-4c36-b334-a13f8eaba476)
 
 Для справки: 
 
