@@ -29,7 +29,7 @@ ttf-jetbrains-mono
 
 Как это выглядит:
 
-![[2025-05-23-223352_hyprshot.png]]
+![2025-05-23-223352_hyprshot](https://github.com/user-attachments/assets/56124db1-528c-468b-ab8c-cbc1acf8d57c)
 
 Или так:
 
