@@ -68,6 +68,8 @@ sudo ninja -C build install
 
 yay -S hyprshot
 
+Шрифты: sudo pacman -S ttf-font-awesome otf-font-awesome ttf-jetbrains-mono
+
 все конфиги уже прописаны, нужно только скопировать в папку .config/
 
 установить hyprshot через yay: 
