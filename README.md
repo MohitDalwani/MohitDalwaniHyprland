@@ -35,6 +35,10 @@ ttf-jetbrains-mono
 
 ![2025-05-23-231354_hyprshot](https://github.com/user-attachments/assets/43eb8900-12d3-46cc-957d-0fc985231e92)
 
+<img width="1920" height="1080" alt="hyprland" src="https://github.com/user-attachments/assets/12b415a8-6e47-4d82-a6c3-877128db3247" />
+
+<img width="1921" height="1081" alt="2025-10-23-192849_hyprshot" src="https://github.com/user-attachments/assets/5d949e31-7e22-4905-b52b-2dc5cae6876c" />
+
 как выглядит wlogout:
 
 ![2025-05-24-225911_hyprshot](https://github.com/user-attachments/assets/28d4c59b-b50f-44ff-b312-0923f9a586be)
